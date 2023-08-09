@@ -19,3 +19,4 @@ git branch -d (название коммита) -удаление
 vetka3
 vetka4
 push
+pull 
